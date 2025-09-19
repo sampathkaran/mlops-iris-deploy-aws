@@ -1,3 +1,3 @@
 # mlops-iris-deploy-aws
 
-<img width="793" height="738" alt="image" src="https://github.com/user-attachments/assets/16f2d3d4-665d-4447-91bf-79108f0a025e" />
+<img width="1284" height="1100" alt="MLOps-folder-template" src="https://github.com/user-attachments/assets/0502c070-886c-470b-82f0-1ad96a833d84" />
