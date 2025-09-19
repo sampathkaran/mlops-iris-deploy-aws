@@ -1,3 +1,17 @@
 # mlops-iris-deploy-aws
 
-<img width="1284" height="1100" alt="MLOps-folder-template" src="https://github.com/user-attachments/assets/0502c070-886c-470b-82f0-1ad96a833d84" />
+![alt text](<MLOps-folder-template (1).png>)
+
+# Setup Instructions
+
+- Install a virutal environment using conda
+
+ ```conda create -n iris-deploy-aws python=3.10 ```
+
+   Activate the environment
+
+  ```conda activate iris-deploy-aws ``` 
+
+- Install the necessary pacakages from requoirements.txt file
+
+  ``` pip install -r requirements.txt ```
